@@ -1,0 +1,24 @@
+h1{
+	border:2px solid blue;
+	width:60%
+}
+h2{
+	border:2px dotted pink;
+	width:50%
+}
+h3{
+	border:double;
+	width:40%
+}
+h4{
+	border:inset;
+	width:30%
+}
+h5{
+	border:ridge;
+	width:20%
+}
+h6{
+	border-style:outset;
+	width:10%
+}
